@@ -1,4 +1,9 @@
 {
+"tourName": "Thargoid Surface Site Tour",
+"label": "Thargoid Site",
+"description": "Thargoid Surface Sites consist of a central, organic-like structure in a crater or depression at the center of a spiral geologic formation with more organic formations protruding from the spiral's eight arms. The central structure is a smaller spiral with shorter arms, reminiscent of an Thargoid Ship's general shape. A possible eight-paneled door that is oriented flat with the surface can be seen at the center of the structure. Tunnels lead below the surface and seemingly deeper into the site itself, but are blocked by doors that can only be opened by carrying an Unknown Artefact or Unknown Probe. Vehicles that approach or enter the central structure will experience some light electromagnetic interference that disrupts their HUD. There are two types of sites, "active" with no collapsed areas, and "inactive" with collapsed areas. As new sites are discovered, some also appear to be more developed or complete than others, with a greater proportion of their structure visible above ground.",
+"icon": "icons/thargoid_site.gif",
+"details": {
   "HIP 19026": { "body": "HIP 19026 B 1 C","lat":-17.9575,"lon": -152.6994,"active": "N","x": -117.875,"y": -65.125,"z": -330.90625,"text":  "Land at coordinates -17.9575 : -152.6994", "visited": 0, "priority": 0 },
  "ARIES DARK REGION DB-X D1-63": { "body": "ARIES DARK REGION DB-X D1-63 A 7 A","lat":25.5553,"lon": 78.1765,"active": "N","x": -119.625,"y": -90.84375,"z": -247.03125,"text":  "Land at coordinates 25.5553 : 78.1765", "visited": 0, "priority": 0 },
  "PLEIADES SECTOR OS-U C2-7": { "body": "PLEIADES SECTOR OS-U C2-7 0.166666666666667","lat":58.4244,"lon": -177.0446,"active": "N","x": -68.71875,"y": -229.625,"z": -325.6875,"text":  "Land at coordinates 58.4244 : -177.0446", "visited": 0, "priority": 0 },
@@ -217,3 +222,4 @@
  "HIP 14908": { "body": "HIP 14908 A 2 A","lat":70.8429,"lon": 19.5973,"active": "N","x": -74.84375,"y": -127.65625,"z": -218.28125,"text":  "Land at coordinates 70.8429 : 19.5973", "visited": 0, "priority": 0 },
  "Aries Dark Region GW-W d1-86": { "body": "Aries Dark Region GW-W d1-86 1 B","lat":-28.2303,"lon": 99.013,"active": "N","x": -21.25,"y": -129.75,"z": -227.875,"text":  "Land at coordinates -28.2303 : 99.013", "visited": 0, "priority": 0 }
  }
+}
